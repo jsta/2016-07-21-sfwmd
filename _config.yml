@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/datacarpentry/workshop-template"
-workshop_site   : "http://datacarpentry.github.io/workshop-template"
+workshop_repo   : "http://github.com/jsta/2016-07-21-sfwmd"
+workshop_site   : "http://jsta.github.io/2016-07-21-sfwmd"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
